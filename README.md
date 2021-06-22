@@ -1,0 +1,2 @@
+# dedpix
+Diário Eletrônico Digital
